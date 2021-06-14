@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a DevOps Engineer, currently working in the field of cloud and automation for deployment and management.\
-🎓 &nbsp;I'm completed the studies of Computer Engineering at Dharmsinh Desai University, Nadiad. (2017-2020).\
+🎓 &nbsp;I've completed the studies of Computer Engineering at Dharmsinh Desai University, Nadiad. (2017-2020).\
 🌱 &nbsp;I'm on track for learning more about Cloud and Networking, Data Analytics, and Automating the things.\
 ✍️ &nbsp;In my free time, I watch informative videos, learn new things, and explore more.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
